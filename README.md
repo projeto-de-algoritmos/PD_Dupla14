@@ -21,25 +21,33 @@ Esse projeto tem como objetivo fixar o conteúdo ministrado na disciplina, porta
 
 ## Screenshots
 
-- 188. Best Time to Buy and Sell Stock IV:
+- 188.Best Time to Buy and Sell Stock IV:
 
 ![1](/src/img/1.png)
 ![11](/src/img/11.png)
+![111](/src/img/111.png)
+![1111](/src/img/1111.png)
 
-- 322. Coin Change:
+- 322.Coin Change:
 
 ![2](/src/img/2.png)
 ![22](/src/img/22.png)
+![222](/src/img/222.png)
+![2222](/src/img/2222.png)
 
-- 403. Frog Jump:
+- 403.Frog Jump:
 
 ![3](/src/img/3.png)
 ![33](/src/img/33.png)
+![333](/src/img/333.png)
+![3333](/src/img/3333.png)
 
-- 837. New 21 Game:
+- 837.New 21 Game:
 
 ![4](/src/img/4.png)
 ![44](/src/img/44.png)
+![444](/src/img/444.png)
+![4444](/src/img/4444.png)
 
 ## Instalação
 
