@@ -1,5 +1,6 @@
 import math
 
+# Função para encontrar o lucro máximo
 def maxProfit(k, prices):
     if k >= len(prices) // 2:
       sell = 0
@@ -13,6 +14,7 @@ def maxProfit(k, prices):
 
     sell = [0] * (k + 1)
     hold = [-math.inf] * (k + 1)
+
 
     for price in prices:
       for i in range(k, 0, -1):
