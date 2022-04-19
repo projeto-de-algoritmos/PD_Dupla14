@@ -5,7 +5,7 @@ def coinChange(coins, amount):
     # verifica todas as moeda em moedas
     for coin in coins:
       for i in range(coin, amount + 1):
-        # dp[i] = menor * de moedas para fazer i
+        # dp[i] = menor valor de moedas para fazer i
         dp[i] = min(dp[i], dp[i - coin] + 1)
 
     return -1 if dp[amount] == amount + 1 else dp[amount]

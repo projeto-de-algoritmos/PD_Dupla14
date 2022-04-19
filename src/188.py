@@ -25,6 +25,6 @@ def maxProfit(k, prices):
 
 
 k = 2
-prices = [3,2,6,5,0,3]
+prices = [2,4,1]
 
 print(maxProfit(k, prices))
